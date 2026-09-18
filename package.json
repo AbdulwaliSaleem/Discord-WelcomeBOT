@@ -1,0 +1,13 @@
+{
+  "name": "random-welcome-bot",
+  "version": "1.0.0",
+  "description": "Posts a randomly chosen welcome message whenever a new member joins the server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
